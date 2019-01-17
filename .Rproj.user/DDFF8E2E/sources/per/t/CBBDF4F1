@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547317550373.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "735885939",
+    "id" : "CBBDF4F1",
+    "lastKnownWriteTime" : 1547211616,
+    "last_content_update" : 1547211616,
+    "path" : "~/FAFIRE/IA e Machine Learning/Aula - Árvores de Decisão.R",
+    "project_path" : "Aula - Árvores de Decisão.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "19"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547312700069.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "909258691",
+    "id" : "7DEBA741",
+    "lastKnownWriteTime" : 1547316024,
+    "last_content_update" : 1547316024632,
+    "path" : "~/FAFIRE/IA e Machine Learning/Aula - Algoritmo Genético.R",
+    "project_path" : "Aula - Algoritmo Genético.R",
+    "properties" : {
+        "cursorPosition" : "57,0",
+        "scrollLine" : "54"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

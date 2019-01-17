@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547321209099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2930915105",
+    "id" : "834F6A4F",
+    "lastKnownWriteTime" : 1547321759,
+    "last_content_update" : 1547321759556,
+    "path" : "~/FAFIRE/IA e Machine Learning/Aula - Máquina de Vetores de Suporte.R",
+    "project_path" : "Aula - Máquina de Vetores de Suporte.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "6"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

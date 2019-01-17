@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547311961075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3450542783",
+    "id" : "3F43805",
+    "lastKnownWriteTime" : 1547224075,
+    "last_content_update" : 1547224075,
+    "path" : "~/FAFIRE/IA e Machine Learning/Aula - Global.R",
+    "project_path" : "Aula - Global.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "6"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
